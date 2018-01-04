@@ -12,7 +12,7 @@ Burak Firik
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/burakfirik/Tutorials/blob/master/tutorials.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/burakfirik/Tutorials/blob/master/tutorial.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Copyright 2017 Burak Firik
